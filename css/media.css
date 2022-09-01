@@ -1,0 +1,22 @@
+/*============ medium 2 ============*/
+@media (max-width: 991px) {
+  }
+
+  /* =========== sm 1 =========*/
+@media (max-width: 767px) {
+    .overlay-itro{
+        font-size: 10px;
+    }
+  }
+  
+  /* ========  xs  1 ======== */
+  @media (max-width: 600px) {
+    .overlay-itro{
+        font-size: 8px;
+    }
+  }
+  @media (max-width: 370px) {
+    .overlay-itro{
+        font-size: 6px;
+    }
+  }
